@@ -1,7 +1,7 @@
 {
   "homepage": "https://Krishnasolanki1.github.io/01_project",
   "name": "01_project",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
